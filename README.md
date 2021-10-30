@@ -1,4 +1,4 @@
-- console.log('wellcome to my world')
+- console.log('wellcome to my world');
 - let favorites = "programing & gaming";
 - console.log(favorites);
 - let use"java for application & windows";
