@@ -2,7 +2,7 @@
 - let favorites = "programing & gaming";
 - console.log(favorites);
 - let use"java for application & windows";
-- console.log('use');
+- console.log(use);
 - console.log("join on my discord:)");
 
 <!---
