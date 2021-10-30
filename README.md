@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AmirDrug
-- 👀 I’m interested in programing and gaming
-- 🌱 I’m currently learning java for application & windows
-- 💞️ I’m looking to collaborate on working on the HTML
-- 📫 How to reach me with joing on my Discord
+console.log('wellcome to my world')
+- let favorites = "programing & gaming";
+console.log(favorites);
+- let use"java for application & windows";
+console.log('use');
+console.log('join on my discord:));
 
 <!---
 AmirDrug/AmirDrug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
